@@ -1,0 +1,10 @@
+//items
+item.obsidian_ingot.name=Obsidian Ingot
+
+//blocks
+tile.gold_obsidian_block.name=Gold Obsidian Block
+tile.recpie_dictionary.name=Recpie Dictionary
+
+//tabs
+itemGroup.block_tab=My Mod Block
+itemGroup.item_tab=My Mod item

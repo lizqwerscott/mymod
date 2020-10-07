@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "mymod:gold_obsidian_block"}
+  }
+}

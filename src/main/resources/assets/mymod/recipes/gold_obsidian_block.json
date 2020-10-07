@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    " G ",
+    "GOG",
+    " G "
+  ],
+
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+
+  "result": {
+    "item": "mymod:gold_obsidian_block",
+    "count": 1
+  }
+}
